@@ -1,0 +1,1 @@
+export const PRODUCTS_API_ENDPOINT = 'https://dummyjson.com/products'
